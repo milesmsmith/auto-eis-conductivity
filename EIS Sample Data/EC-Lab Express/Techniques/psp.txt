@@ -1,0 +1,3 @@
+The PSP technique corresponds to studying pitting occurrence under applied constant potential. 
+   
+The experiment stops when a pitting current (Ip) defined by the user is reached. Ip can be used as a safety parameter in order to avoid damages on the working electrode.

@@ -1,0 +1,1 @@
+This technique corresponds to the follow up of the corrosion potential (when the circuit is open) versus time. During the measurement no potential or current is applied to the cell.

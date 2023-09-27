@@ -1,0 +1,8 @@
+Pulsed techniques have been introduced to increase the ratio between the faradic and nonfaradic currents in order to permit a quantification of species to very low concentration levels.
+
+
+The Normal Pulse Voltammetry is one of the first pulsed techniques elaborated for polarography needs. An essential idea behind the NPV is the cyclic renewal of the diffusion layer. With a DME, this is achieved by the stirring accompanying the fall of the mercury drop. But at other electrodes renewal may not be so easily accomplished.
+
+
+NPV consists of a series of pulses of linear increasing amplitude (from Ei to Ef). The potential pulse is ended by a return to the base value Ei. The usual practice is to select Ei in a region where the electroactive species of interest does not react at the electrode. The current is sampled at a time t near the end of the pulse and at a time t’ before the pulse. The plotted current is the difference of both currents measured at the end of the pulse (forward) and at the end of the period previous to the pulse (reverse).
+   

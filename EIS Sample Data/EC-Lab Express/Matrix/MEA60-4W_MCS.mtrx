@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>                           
+<fileinfo company="biologic" type="matrixconfigfile">                           
+    <matrice  configname="MEA60-4W_MCS" colonne="16" ligne="16" nbelec="60" nbwell="4">                   
+        <electrode Row="0" Col="0"    numpad="231"     numelec="0"     idwell="1" /> 
+        <electrode Row="0" Col="2"    numpad="227"     numelec="1"     idwell="1" />
+        <electrode Row="0" Col="4"    numpad="235"     numelec="2"     idwell="1" /> 
+        <electrode Row="0" Col="9"    numpad="7"     numelec="15"    idwell="2" /> 
+        <electrode Row="0" Col="11"   numpad="15"     numelec="16"    idwell="2" /> 
+        <electrode Row="0" Col="13"   numpad="23"     numelec="17"    idwell="2" /> 
+        <electrode Row="0" Col="15"   numpad="31"    numelec="18"    idwell="2" /> 
+        <electrode Row="1" Col="6"    numpad="247"     numelec="3"     idwell="1" />  
+        <electrode Row="2" Col="0"    numpad="223"     numelec="4"     idwell="1" /> 
+        <electrode Row="2" Col="2"    numpad="219"     numelec="5"     idwell="1" />     
+        <electrode Row="2" Col="4"    numpad="239"     numelec="6"     idwell="1" />     
+        <electrode Row="2" Col="9"    numpad="11"     numelec="19"    idwell="2" />     
+        <electrode Row="2" Col="11"   numpad="19"     numelec="20"    idwell="2" />     
+        <electrode Row="2" Col="13"   numpad="35"     numelec="21"    idwell="2" />     
+        <electrode Row="2" Col="15"   numpad="43"    numelec="22"    idwell="2" />  
+        <electrode Row="3" Col="6"    numpad="211"     numelec="7"     idwell="1" />   
+        <electrode Row="4" Col="0"    numpad="215"     numelec="8"     idwell="1" />     
+        <electrode Row="4" Col="2"    numpad="203"     numelec="9"     idwell="1" />        
+        <electrode Row="4" Col="4"    numpad="199"     numelec="10"    idwell="1" />     
+        <electrode Row="4" Col="9"    numpad="3"     numelec="23"    idwell="2" />     
+        <electrode Row="4" Col="11"   numpad="251"     numelec="24"    idwell="2" />     
+        <electrode Row="4" Col="13"   numpad="39"     numelec="25"    idwell="2" />     
+        <electrode Row="4" Col="15"   numpad="51"    numelec="26"    idwell="2" /> 
+        <electrode Row="5" Col="6"    numpad="183"    numelec="11"    idwell="1" /> 
+        <electrode Row="6" Col="0"    numpad="207"     numelec="12"    idwell="1" />        
+        <electrode Row="6" Col="2"    numpad="195"      numelec="13"    idwell="1" />        
+        <electrode Row="6" Col="4"    numpad="187"    numelec="14"    idwell="1" />        
+        <electrode Row="6" Col="10"   numpad="243"     numelec="27"    idwell="2" />     
+        <electrode Row="6" Col="12"   numpad="27"     numelec="28"    idwell="2" />     
+        <electrode Row="6" Col="14"   numpad="47"    numelec="29"    idwell="2" />
+        <electrode Row="9" Col="1"    numpad="175"    numelec="30"    idwell="3" />   
+        <electrode Row="9" Col="3"    numpad="155"    numelec="31"    idwell="3" />        
+        <electrode Row="9" Col="5"    numpad="115"    numelec="32"    idwell="3" />        
+        <electrode Row="9" Col="11"   numpad="55"    numelec="45"    idwell="4" />        
+        <electrode Row="9" Col="13"   numpad="67"    numelec="46"    idwell="4" />        
+        <electrode Row="9" Col="15"   numpad="79"    numelec="47"    idwell="4" />  
+        <electrode Row="10" Col="9"   numpad="59"    numelec="48"    idwell="4" />   
+        <electrode Row="11" Col="0"   numpad="179"    numelec="33"    idwell="3" />        
+        <electrode Row="11" Col="2"   numpad="167"    numelec="34"    idwell="3" />        
+        <electrode Row="11" Col="4"   numpad="123"    numelec="35"    idwell="3" />        
+        <electrode Row="11" Col="6"   numpad="131"    numelec="36"    idwell="3" />        
+        <electrode Row="11" Col="11"  numpad="71"    numelec="49"    idwell="4" />        
+        <electrode Row="11" Col="13"  numpad="75"    numelec="50"    idwell="4" />        
+        <electrode Row="11" Col="15"  numpad="87"    numelec="51"    idwell="4" />  
+        <electrode Row="12" Col="9"   numpad="83"    numelec="52"    idwell="4" />   
+        <electrode Row="13" Col="0"   numpad="171"    numelec="37"    idwell="3" />        
+        <electrode Row="13" Col="2"   numpad="163"    numelec="38"    idwell="3" />        
+        <electrode Row="13" Col="4"   numpad="147"    numelec="39"    idwell="3" />        
+        <electrode Row="13" Col="6"   numpad="139"    numelec="40"    idwell="3" />        
+        <electrode Row="13" Col="11"  numpad="111"    numelec="53"    idwell="4" />        
+        <electrode Row="13" Col="13"  numpad="91"    numelec="54"    idwell="4" />        
+        <electrode Row="13" Col="15"  numpad="95"    numelec="55"    idwell="4" />  
+        <electrode Row="14" Col="9"   numpad="119"    numelec="56"    idwell="4" /> 
+        <electrode Row="15" Col="0"   numpad="159"    numelec="41"    idwell="3" />        
+        <electrode Row="15" Col="2"   numpad="151"    numelec="42"    idwell="3" />        
+        <electrode Row="15" Col="4"   numpad="143"    numelec="43"    idwell="3" />        
+        <electrode Row="15" Col="6"   numpad="135"    numelec="44"    idwell="3" />        
+        <electrode Row="15" Col="11"  numpad="107"    numelec="57"    idwell="4" />        
+        <electrode Row="15" Col="13"  numpad="99"    numelec="58"    idwell="4" />        
+        <electrode Row="15" Col="15"  numpad="103"    numelec="59"    idwell="4" />               
+    </matrice>                         
+</fileinfo>                             

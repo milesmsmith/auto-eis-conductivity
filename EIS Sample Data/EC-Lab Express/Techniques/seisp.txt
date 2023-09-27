@@ -1,0 +1,5 @@
+The Staircase Potentio Electrochemical Impedance Spectroscopy (SPEIS) technique is designed to perform successive impedance measurements (on a whole frequency range) during a potential sweep. The main application of this technique is to study electrochemical reaction kinetics along voltamperometric (I(E)) curves in analytical electrochemistry. Thus this technique finds all its interest to study the complexity of non-stationary interfaces with faradic processes where the total AC response (whole frequency range) is required. 
+
+Another common application of such a technique is semi-conductor materials study. For these stationary systems only two or three frequencies for each potential step are required to determine the donor density and the flat band potential.
+
+The SPEIS technique consists in a staircase potential sweep (potential limits and number of steps defined by the user). An impedance measurement (with an adjustable number of frequencies) is performed on each potential step.  For all these applications a Mott-Schottky plot (1/C2 vs. Ewe) can be displayed and a special linear fit is applied to extract the semi-conductor parameters.

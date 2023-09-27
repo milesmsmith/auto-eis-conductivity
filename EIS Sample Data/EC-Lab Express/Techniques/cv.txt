@@ -1,0 +1,3 @@
+Cyclic voltammetry (CV) is the most widely used technique for acquiring qualitative informations about electrochemical reactions. CV provides informations on redox processes, heterogeneous electron-transfer reactions and adsorption processes. It offers a rapid location of redox potential of the electroactive species.
+
+CV consists of scanning linearly the potential of a stationary working electrode using a triangular potential waveform. During the potential sweep, the potentiostat measures the current resulting from electrochemical reactions (consecutive to the applied potential). The cyclic voltammogram is a current response as a function of the applied potential.

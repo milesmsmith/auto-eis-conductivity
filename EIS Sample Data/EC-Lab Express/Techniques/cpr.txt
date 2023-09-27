@@ -1,0 +1,3 @@
+The Chronopotentiometry (CP) is a controlled current technique. The current is controlled and the potential is the variable determined as a function of time. The chronopotentiometry technique is similar to the Chronoamperometry technique, potential steps being replaced by current steps. The constant current is applied between the working and the counter electrode.
+
+This technique can be used for different kind of analysis or to investigate electrode kinetics. But, it is considered less sensitive than voltammetric techniques for analytical uses. Generally, the curves Ewe = f(t) contains plateaus that correspond to the redox potential of electroactive species.

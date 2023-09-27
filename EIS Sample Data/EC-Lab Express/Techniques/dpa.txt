@@ -1,0 +1,2 @@
+The Differential Pulse Amperometry results from the DNPV technique without increasing pulse steps. The potential waveform and the current sampling are the same as for DNPV. A DPA experiment is often used as a sensitive method for the quantification of electrochemical species at a defined potential (Es). This potential value is often determined with a DNPV experiment (using a potential sweep with the same waveform) previously performed. This technique is dedicated to the quantification of biological electroactive species.
+    

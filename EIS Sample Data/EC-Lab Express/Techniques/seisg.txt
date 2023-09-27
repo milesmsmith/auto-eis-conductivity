@@ -1,0 +1,1 @@
+The Staircase Galvano Electrochemical Impedance Spectroscopy (SGEIS) technique is close to the SPEIS technique. The difference is that the potentiostat works as a galvanostat and applies a current sweep (staircase shape). In the same way an impedance measurement (whole frequency range) can be performed on each current step. The user can also select several frequencies.

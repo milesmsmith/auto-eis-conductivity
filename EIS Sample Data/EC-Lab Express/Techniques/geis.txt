@@ -1,0 +1,3 @@
+The Galvano Electrochemical Impedance Spectroscopy (GEIS) technique performs impedance measurements into galvanostatic mode in applying a sinus around a DC current I that can be set to a fixed value or relatively to a previous controlled current. In the case of particular non-linear systems it can be necessary to use PEIS instead of GEIS.
+
+The Electrochemical Impedance spectroscopy (EIS) finds many of applications in corrosion, battery, fuel cell development, sensors and physical electrochemistry. It can provide information on reaction parameters, corrosion rates, electrode surfaces porosity, coating, mass transport, interfacial capacitance measurements.

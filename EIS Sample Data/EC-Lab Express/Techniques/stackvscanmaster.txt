@@ -1,0 +1,1 @@
+The Potentiodynamic on Stack (STACKPDYN) technique allows the user to perform potentiodynamic periods on a stack with different scan rates.

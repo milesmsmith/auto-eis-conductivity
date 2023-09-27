@@ -1,0 +1,6 @@
+The ohmic drop iRu is the voltage drop developed across the solution resistance Ru between the reference electrode and the working electrode, when current is flowing through. When the product iRu gets significant it introduces an important error in the control of the working electrode potential and should be compensated.
+ 
+The IR Determination with Potentiostatic Impedance (PZIR) technique utilizes Impedance measurements to determine the Ru Value. This technique applies a sinusoidal excitation around the  DC potential measured at the beginning of the technique. PZIR technique determines the solution resistance Ru, for one high frequency value, as the real part of the measured impedance. A percentage of the Ru value will be used to compensate next potentio techniques. It is highly recommended to not exceed 85% of the Ru measured value in order to avoid oscillations of the instrument.
+
+When used in linked techniques including loops, Ru value can change during the experiment. PZIR can be an ideal tool to do a dynamic ohmic drop compensation between repeated techniques. 
+For low impedance electrochemical systems it is recommended to use GZIR instead of PZIR.

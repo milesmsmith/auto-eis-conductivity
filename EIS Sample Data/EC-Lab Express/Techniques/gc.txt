@@ -1,0 +1,8 @@
+The generalized corrosion technique is applied for general corrosion (sometimes called uniform corrosion) study. For this corrosion, anodic dissolution is uniformly distributed over the entire metallic surface. The corrosion rate is nearly constant at all locations. 
+
+Microscopic anodes and cathodes are continuously changing their electrochemical behavior from anode to cathode cells for a uniform attack.
+    
+ 
+
+
+    

@@ -1,0 +1,16 @@
+Measurement Technique: PEIS
+Current or voltage step vs initial one: No
+Set Ewe (V): 0
+Wait for ts (sec): 1
+Record every dt (sec): 0.1
+Record every dl (mA): 0.1
+Final frequency (Hz): 1
+Initial frequency (Hz): 7000000
+Sinus amplitude Va (V): 0.01
+Number of frequency points (NT): 100
+Average Na measures per frequency: 5
+Drift correction: No
+Wait for pw period(s) before each frequency: 0.1
+Current range: AUTO
+Voltage range: Auto range
+Bandwidth (1-9): 8

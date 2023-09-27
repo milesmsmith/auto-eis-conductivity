@@ -1,0 +1,3 @@
+The Zero Resistance Ammeter technique is used to examine the effects of coupling dissimilar metals and to perform some types of electrochemical noise measurement. 
+
+This technique consists into applying zero volts between the working electrode (WE) and the counter electrode (CE) and then measures the current and the potentials (Ewe, Ece) versus the reference electrode (REF).

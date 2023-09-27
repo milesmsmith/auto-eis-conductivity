@@ -1,0 +1,5 @@
+Among the electroanalytical techniques, the Square Wave Voltammetry (SWV) combines the background suppression, the sensitivity of DPV and the diagnostic value of NPV.
+
+The SWV is a large amplitude differential technique characterized by a pulse height (PH) and a pulse width (PW).The pulse width can be expressed in term of square wave frequency f=1/(2PW).The scan rate is v = PH/(2PW). The current is sampled twice, once at the end of the forward pulse and once at the end of the reverse pulse. The difference between the two measurements is plotted versus the base staircase potential. The resulting peak-shaped voltammogram is symmetrical about the half-wave potential and the peak current is proportional to the concentration. 
+
+Excellent sensitivity accrues from the fact that the net current is larger than either the forward or reverse components (since it is the difference between them).

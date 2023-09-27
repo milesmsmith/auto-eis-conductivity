@@ -1,0 +1,3 @@
+The Reverse Normal Pulse Voltammetry is a derivative technique from the NPV. The main difference is that the initial (base) potential Ei is placed in the diffusion-limited region for electrolysis of the species present in the bulk solution. The pulses are made through the region where the species in solution is not electroactive. 
+
+The RNPV experiment involves a significant faradic current. This method is a reversal experiment because of the detection of the product from a prior electrolysis.'

@@ -1,0 +1,5 @@
+The Potentio Electrochemical Impedance Spectroscopy (PEIS) technique performs impedance measurements into potentiostatic mode in applying a sinus around a DC potential E that can be set to a fixed value or relatively to the cell equilibrium potential.
+
+For very capacitive or low impedance electrochemical systems, the potential amplitude can lead to a current overflow that can stop the experiment in order to protect the unit from overheating. Using GEIS instead of PEIS can avoid this inconvenient situation.
+
+Moreover, during corrosion experiment, a potential shift of the electrochemical system can occur. PEIS technique can lead to impedance measurements far from the corrosion potential while GEIS can be performed at a zero current.

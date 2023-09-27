@@ -1,0 +1,5 @@
+The linear polarization technique is used in corrosion monitoring. This technique is especially designed for the determination of a polarization resistance Rp of a material and Icorr through potential steps around the corrosion potential. 
+
+Rp is defined as the slope of the potential-current density curve at the free corrosion potential: Rp = (dE/dI) dE->0
+
+Rp is determined using the ''Rp fit'' graphic tool. Contrary to the Potentiodynamic Pitting (PDP) technique, no current limitation is available with the linear polarization technique.

@@ -1,0 +1,6 @@
+The basis of the controlled-potential techniques is the measurement of the current response to an applied potential step.
+
+The Chronoamperometry (CA) technique involves stepping the potential of the working electrode from an initial potential, at which (generally) no faradic reaction occurs, to a potential Ei at which the faradic reaction occurs. The current-time response reflects the change in the concentration gradient in the vicinity of the surface.
+Chronoamperometry is often used for measuring the diffusion coefficient of electroactive species or the surface area of the working electrode. This technique can also be applied to the study of electrode processes mechanisms. 
+
+An alternative and very useful mode for recording the electrochemical response is to integrate the current, so that one obtains the charge passed as a function of time. This is the chronocoulometric mode that is particularly used for measuring the quantity of adsorbed reactants.

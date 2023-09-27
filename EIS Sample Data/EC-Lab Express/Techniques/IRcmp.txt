@@ -1,0 +1,5 @@
+The ohmic drop iRu is the voltage drop developed across the solution resistance Ru between the reference electrode and the working electrode, when current is flowing through. When the product iRu gets significant it introduces an important error in the control of the working electrode potential and should be compensated.  
+
+In controlled potential techniques, The Manual IR (MIR) can be used to compensate the ohmic drop when the uncompensated solution resistance value (Ru) is known or measured before the experiment start. This technique will not measure Ru. 
+
+When used with linked techniques and loops, this technique allow the user to keep the same Ru value for each loop. The user can select the percentage of compensation. It is highly recommended to not exceed 85% of the Ru measured value in order to avoid oscillations of the instrument.

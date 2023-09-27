@@ -1,0 +1,10 @@
+The Special Technique ChronoCoulometry technique (STCC) allows the user to adjust the potential of the experiment. This technique contains two periods. First step is a potentiostatic method and the second period is a galvanostatic period. During the galvanostatic period a current equal to zero is applied to the cell. This couple of steps can be repeated. For each potentiostatic step, the applied potential is calculated thanks to:
+
+En+1 = En - B (A - Eocn)
+En+1 is the voltage calculated for the step n+1
+En is the voltage applied in the former potentiostatic step (user sets the initial voltage E0)
+Eocn is the voltage measured at the end of previous open circuit voltage step.
+A and B are constants set by user.
+
+This feature makes STCC technique very useful for electrochemical coating.
+
